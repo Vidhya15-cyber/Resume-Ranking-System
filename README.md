@@ -81,15 +81,6 @@ streamlit run app.py
 
 The application ranks resumes based on their similarity to the provided job description, making the recruitment process faster and more efficient.
 
----
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Resume Upload
-- Ranking Results
 
 ---
 
